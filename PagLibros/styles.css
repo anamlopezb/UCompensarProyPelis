@@ -1,0 +1,14 @@
+/* styles.css */
+
+/* Estilos para el footer */
+footer {
+    width: 100%;
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  /* Estilos para el texto del footer */
+  footer p {
+    margin-bottom: 0; /* Elimina el margen inferior */
+  }
+  
